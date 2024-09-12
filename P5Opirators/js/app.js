@@ -1,4 +1,4 @@
-
+// using 2 variables and storing them
 
 
 let firstnumber = 1;
@@ -41,3 +41,22 @@ console.log(gold); // 60
 
 gold %= 10;
 console.log(gold); // 0
+
+//pre/post increment (++ x or +=)
+
+let numberofstudents = 0;
+
+numberofstudents += 1; // samma sak som numberofstudents ++ 1;
+console.log(numberofstudents);
+
+numberofstudents ++;
+console.log(numberofstudents);
+
+numberofstudents ++;
+console.log(numberofstudents);
+
+++numberofstudents
+console.log(numberofstudents);
+
+console.log(numberofstudents++);
+console.log(++numberofstudents);
