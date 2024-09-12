@@ -1,20 +1,12 @@
-let x = 6;
-let x1 = 5;
-let y = 20;
-let z = 0;
+let numbersofbottles = 10
+const line1 = "green bottles haning on the wall"
+const line2 =  "and if one green bottle, sccedental fal, there will be"
+console.log(numbersofbottles);
+console.log(line1);
+console.log(numbersofbottles);
+console.log(line1);
+console.log(line2);
+console.log(--numbersofbottles);
+console.log(line1);
 
-console.log(x1 + x1 +x1 + x1 +x1);
-console.log("hey");
-
-while (y === 20)
-{
-  console.log("hej");
-  break;
-}
-
-if (x1 === 25)
-
-{
-  console.log("tja");
-}
 
