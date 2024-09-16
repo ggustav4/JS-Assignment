@@ -25,3 +25,5 @@ let outputt = 0;
 outputt = inputt % 4;
 console.log(outputt);
 
+
+
