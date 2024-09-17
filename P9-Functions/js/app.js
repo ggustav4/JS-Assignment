@@ -32,12 +32,26 @@ function turnaround() {
   turnright()
   turnright()
 }
-walkthreesteps()
-turnaround()
-walkthreesteps()
-turnleft()
-walkthreesteps()
-turnleft()
-stepforward()
-turnaround()
-stepforward()
+walkthreesteps();
+turnaround();
+walkthreesteps();
+turnleft();
+walkthreesteps();
+turnleft();
+stepforward();
+turnaround();
+stepforward();
+
+//function pengar () {
+//  return " hej";
+//}
+//console.log(pengar());
+
+//function addone(inputnumber) {
+ // inputnumber += 1;
+//  console.log(inputnumber);
+
+}
+
+// addone(8);
+
